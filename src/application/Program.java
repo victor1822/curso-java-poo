@@ -7,9 +7,9 @@ import entities.Triangle;
 
 public class Program {
 
-	public static void main(String[] args) { //Este programa calcula as áreas de dois triângulos a partir das medidas dos seus três lados e retorna qual dos triângulos tem a maior área
+	public static void main(String[] args) { //Este programa calcula as Areas de dois triangulos a partir das medidas dos seus tres lados e retorna qual dos triangulos tem a maior area
 		
-		Locale.setDefault(Locale.US);  //configura a forma padrão de nomenclatura de números em ponto flutuante como sendo igual ao padrão internacional (usando . para separar as casas decimais)
+		Locale.setDefault(Locale.US);  //configura a forma padrao de nomenclatura de numeros em ponto flutuante como sendo igual ao padrão internacional (usando . para separar as casas decimais)
 		Scanner sc = new Scanner(System.in);
 		
 		Triangle x,y;
