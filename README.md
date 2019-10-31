@@ -1,4 +1,4 @@
-# curso-java-poo
+# curso-java-Triangle
 
 Códigos do curso online de java avançado na Udemy(https://www.udemy.com/share/1013hwA0cfdVlTQn4=/)
 
